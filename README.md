@@ -1,24 +1,46 @@
-# ssophiz
+# Won Kyeom Kim
 
-I build reproducible evaluations for AI security, with a focus on retrieval-augmented generation (RAG) and tool-using systems.
+Cybercrime and digital forensics investigator focused on AI security evaluation, incident response, and trustworthy automation for investigative workflows.
 
-## Featured project
+## Current focus
 
-**[AI Safety Evaluation Lab](https://github.com/ssophiz/ai-safety-eval-lab)** compares baseline and guarded systems using versioned cases, then produces JSON and Markdown reports.
+- Reproducible security evaluations for RAG and tool-using AI systems
+- Multi-agent analysis with explicit privacy, evidence, and approval boundaries
+- AI-assisted malware analysis and digital forensics
+- Cyber threat intelligence and incident response
 
-- **Security coverage:** prompt injection, untrusted retrieved content, sensitive-data disclosure, tool permissions, and approval requirements.
-- **Evaluation:** safety failures, benign-task regressions, category-level results, and latency.
-- **Reproducibility:** Python, synthetic test data, runnable checks, and deterministic reference adapters that require no API keys.
+## Selected AI security work
 
-The reference adapters exercise the evaluation pipeline; their results do not establish the safety of a deployed model.
+### [AI Safety Evaluation Lab](https://github.com/ssophiz/ai-safety-eval-lab)
 
-## Selected public work
+A Python evaluation harness with 180 synthetic cases across core and Korean-English regression sets. It measures prompt injection, untrusted retrieval, synthetic-data disclosure, tool authorization, approval boundaries, and benign-task regressions. The repository includes deterministic reference adapters and an optional OpenAI-compatible model adapter.
+
+### [Multi-Agent Malware Safety Bench](https://github.com/ssophiz/multi-agent-malware-safety-bench)
+
+A synthetic-only benchmark for collector, analyst, reviewer, and reporter workflows. It evaluates evidence grounding, cross-agent trust boundaries, leakage, unsafe actions, and benign task completion without distributing malware or operational data.
+
+## Public professional evidence
+
+- Investigator at the Korean National Police Agency
+- Speaker at the 11th INTERPOL Digital Forensics Expert Group meeting: *Multi-Agent LLM for Malware Analysis: Balancing Automation and Data Protection*
+- Team lead for a team that passed the CCE 2026 preliminary round
+- Previous experience in malware research, institutional information protection, privacy protection, and military information security
+- B.S. in Computer Engineering; currently studying Software at Sungkyunkwan University
+
+## Credentials
+
+CISSP · CISM · CISA · EnCE · CHFI · HTB Certified Offensive AI Expert
+
+## Selected public repositories
 
 | Project | Focus |
 | --- | --- |
-| [ChainEye](https://github.com/ssophiz/chaineye) | Cryptocurrency transaction analysis, suspicious-flow tracing, and evidence-based reporting. |
-| [SSophiz CTF Skills](https://github.com/ssophiz/ssophiz-ctf-skills) | Reusable, evidence-oriented agent workflows for authorized CTF practice. |
+| [ChainEye](https://github.com/ssophiz/chaineye) | Cryptocurrency transaction analysis and suspicious-flow tracing |
+| [SSophiz CTF Skills](https://github.com/ssophiz/ssophiz-ctf-skills) | Evidence-oriented workflows for authorized security exercises |
 
-My current focus is turning security requirements into repeatable tests and clear reports that show both control effectiveness and impact on legitimate tasks.
+## Contact
 
-[Browse my repositories](https://github.com/ssophiz?tab=repositories)
+- [LinkedIn](https://www.linkedin.com/in/won-kyeom-kim-80aa49215/)
+- [GitHub repositories](https://github.com/ssophiz?tab=repositories)
+
+All public projects use synthetic or explicitly public data. Operational law-enforcement information is not published.
