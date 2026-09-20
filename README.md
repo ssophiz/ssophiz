@@ -44,3 +44,7 @@ CISSP · CISM · CISA · EnCE · CHFI · HTB Certified Offensive AI Expert
 - [GitHub repositories](https://github.com/ssophiz?tab=repositories)
 
 All public projects use synthetic or explicitly public data. Operational law-enforcement information is not published.
+
+## Current research protocol
+
+The [draft multi-agent evaluation protocol](https://github.com/ssophiz/ai-safety-eval-lab/tree/main/research/protocol-v0.1) records 18 planned cells, 2,160 planned runs, and 4,320 planned calls. It is explicitly marked as a draft with no model experiments or results; preregistration freeze is pending.
