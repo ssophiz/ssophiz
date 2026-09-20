@@ -19,6 +19,10 @@ A reproducible evaluation harness with 180 synthetic cases, strict OpenAI-compat
 
 An offline benchmark with 120 core cases and 60 adaptive cross-agent contamination cases for collector, analyst, reviewer, and reporter workflows. Version 0.3.2 includes 35 offline tests and portable cross-platform source hashes and an opt-in localhost Ollama pilot. Its fixed 60-case `qwen3:4b` run returned 60 schema-invalid proposals, a negative integration result that demonstrates failure accounting rather than model safety.
 
+### [AI Evidence Integrity Bench](https://github.com/ssophiz/ai-evidence-integrity-bench)
+
+A synthetic AI security benchmark for claim-level verification and authority integrity across Korean-English agent handoffs. Version 0.1.0 includes an offline interactive demo, a structural provenance gate, explicit semantic-review limits, a threat model, and cross-platform tests. It contains no model-performance or field-reliability claim.
+
 ## Public professional evidence
 
 - Investigator at the Korean National Police Agency
