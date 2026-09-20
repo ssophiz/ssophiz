@@ -1,4 +1,4 @@
-# Won Kyeom Kim
+﻿# Won Kyeom Kim
 
 Cybercrime and digital forensics investigator focused on AI security evaluation, incident response, and trustworthy automation for investigative workflows.
 
@@ -17,7 +17,7 @@ A reproducible evaluation harness with 180 synthetic cases, strict OpenAI-compat
 
 ### [Multi-Agent Malware Safety Bench](https://github.com/ssophiz/multi-agent-malware-safety-bench)
 
-An offline benchmark with 120 core cases and 60 adaptive cross-agent contamination cases for collector, analyst, reviewer, and reporter workflows. Version 0.3.0 includes 32 offline tests and an opt-in localhost Ollama pilot. Its fixed 60-case `qwen3:4b` run returned 60 schema-invalid proposals, a negative integration result that demonstrates failure accounting rather than model safety.
+An offline benchmark with 120 core cases and 60 adaptive cross-agent contamination cases for collector, analyst, reviewer, and reporter workflows. Version 0.3.1 includes 32 offline tests and an opt-in localhost Ollama pilot. Its fixed 60-case `qwen3:4b` run returned 60 schema-invalid proposals, a negative integration result that demonstrates failure accounting rather than model safety.
 
 ## Public professional evidence
 
@@ -50,3 +50,4 @@ All public projects use synthetic or explicitly public data. Operational law-enf
 The [draft multi-agent evaluation protocol](https://github.com/ssophiz/ai-safety-eval-lab/tree/main/research/protocol-v0.1) records 18 planned cells, 2,160 planned runs, and 4,320 planned calls. It is explicitly marked as a draft with no model experiments or results; preregistration freeze is pending.
 
 The [forensic AI assurance research agenda](https://github.com/ssophiz/ai-safety-eval-lab/blob/main/research/ideas/forensic-ai-assurance-agenda.md) ranks eight candidate studies and specifies falsification criteria for the top three without claiming completed results or publication priority.
+
