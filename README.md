@@ -1,4 +1,4 @@
-﻿# Won Kyeom Kim
+# Won Kyeom Kim
 
 Cybercrime and digital forensics investigator focused on AI security evaluation, incident response, and trustworthy automation for investigative workflows.
 
@@ -50,4 +50,3 @@ All public projects use synthetic or explicitly public data. Operational law-enf
 The [draft multi-agent evaluation protocol](https://github.com/ssophiz/ai-safety-eval-lab/tree/main/research/protocol-v0.1) records 18 planned cells, 2,160 planned runs, and 4,320 planned calls. It is explicitly marked as a draft with no model experiments or results; preregistration freeze is pending.
 
 The [forensic AI assurance research agenda](https://github.com/ssophiz/ai-safety-eval-lab/blob/main/research/ideas/forensic-ai-assurance-agenda.md) ranks eight candidate studies and specifies falsification criteria for the top three without claiming completed results or publication priority.
-
