@@ -13,11 +13,11 @@ Cybercrime and digital forensics investigator focused on AI security evaluation,
 
 ### [AI Safety Evaluation Lab](https://github.com/ssophiz/ai-safety-eval-lab)
 
-A Python evaluation harness with 180 synthetic cases across core and Korean-English regression sets. It measures prompt injection, untrusted retrieval, synthetic-data disclosure, tool authorization, approval boundaries, and benign-task regressions. The repository includes deterministic reference adapters and an optional OpenAI-compatible model adapter.
+A reproducible evaluation harness with 180 synthetic cases, strict OpenAI-compatible and Ollama adapters, and audited single-run results for three local quantized models. Version 0.3.0 publishes dataset and result hashes, per-case schema failures, Korean-English comparison, 27 tests, and an independent recomputation. Results are scoped to synthetic policy-decision agreement.
 
 ### [Multi-Agent Malware Safety Bench](https://github.com/ssophiz/multi-agent-malware-safety-bench)
 
-A synthetic-only benchmark for collector, analyst, reviewer, and reporter workflows. It evaluates evidence grounding, cross-agent trust boundaries, leakage, unsafe actions, and benign task completion without distributing malware or operational data.
+An offline benchmark with 120 core cases and 60 adaptive cross-agent contamination cases for collector, analyst, reviewer, and reporter workflows. Version 0.2.0 adds relay override, role escalation, and evidence-poisoning regression suites with 22 passing tests.
 
 ## Public professional evidence
 
