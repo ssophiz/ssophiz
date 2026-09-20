@@ -21,7 +21,7 @@ An offline benchmark with 120 core cases and 60 adaptive cross-agent contaminati
 
 ### [AI Evidence Integrity Bench](https://github.com/ssophiz/ai-evidence-integrity-bench)
 
-A synthetic AI security benchmark for claim-level verification and authority integrity across Korean-English agent handoffs. Version 0.1.0 includes an offline interactive demo, a structural provenance gate, explicit semantic-review limits, a threat model, and cross-platform tests. It contains no model-performance or field-reliability claim.
+A synthetic AI security benchmark for claim-level verification and authority integrity across Korean-English agent handoffs. Version 0.2.0 adds family-separated bilingual protocol foundations, explicit failure accounting, an offline interactive demo, a structural provenance gate, a threat model, and 22 cross-platform tests. It contains no model-performance or field-reliability claim.
 
 ## Public professional evidence
 
