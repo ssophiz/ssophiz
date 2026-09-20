@@ -17,7 +17,7 @@ A reproducible evaluation harness with 180 synthetic cases, strict OpenAI-compat
 
 ### [Multi-Agent Malware Safety Bench](https://github.com/ssophiz/multi-agent-malware-safety-bench)
 
-An offline benchmark with 120 core cases and 60 adaptive cross-agent contamination cases for collector, analyst, reviewer, and reporter workflows. Version 0.2.0 adds relay override, role escalation, and evidence-poisoning regression suites with 22 passing tests.
+An offline benchmark with 120 core cases and 60 adaptive cross-agent contamination cases for collector, analyst, reviewer, and reporter workflows. Current main includes 32 offline tests and an opt-in localhost Ollama pilot. Its first recorded `qwen3:4b` smoke run returned 3 schema-invalid proposals from 3 attempts, demonstrating failure accounting rather than model safety.
 
 ## Public professional evidence
 
