@@ -13,7 +13,7 @@ Cybercrime and digital forensics investigator focused on AI security evaluation,
 
 ### [AI Safety Evaluation Lab](https://github.com/ssophiz/ai-safety-eval-lab)
 
-A reproducible evaluation harness with 180 synthetic cases, strict OpenAI-compatible and Ollama adapters, and audited single-run results for three local quantized models. Version 0.3.0 publishes dataset and result hashes, per-case schema failures, Korean-English comparison, 27 tests, and an independent recomputation. Results are scoped to synthetic policy-decision agreement.
+A reproducible evaluation harness with 180 synthetic cases, strict OpenAI-compatible and Ollama adapters, and audited single-run results for three local quantized models. Version 0.3.1 publishes portable artifact hashes, per-case schema failures, Korean-English comparison, 36 tests, and an independent recomputation. Results are scoped to synthetic policy-decision agreement.
 
 ### [Multi-Agent Malware Safety Bench](https://github.com/ssophiz/multi-agent-malware-safety-bench)
 
